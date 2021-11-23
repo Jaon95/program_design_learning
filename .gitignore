@@ -4,4 +4,5 @@
 .data
 .config
 .output
-.test.ipynb
+test.ipynb
+test
